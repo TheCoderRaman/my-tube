@@ -1,0 +1,29 @@
+{
+  "name": "my-tube",
+  "version": "1.0.0",
+  "description": "Modern MyTube Application in React JS with Material UI 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/animaxdev/my-tube.git"
+  },
+  "keywords": [
+    "ui",
+    "my-tube",
+    "react",
+    "material",
+    "modern",
+    "youtube",
+    "application",
+    "javascript"
+  ],
+  "author": "Animax Developer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/animaxdev/my-tube/issues"
+  },
+  "homepage": "https://github.com/animaxdev/my-tube#readme"
+}
