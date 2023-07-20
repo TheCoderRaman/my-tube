@@ -1,6 +1,6 @@
-import env from "react-dotenv";
+import env from 'react-dotenv';
 import ls from 'localstorage-slim';
-import { stringToBoolean } from "./../Utils/stringToBoolean";
+import { stringToBoolean } from './../Utils/stringToBoolean';
 
 export default function createLocalStorageSlim(){ 
     ls.config.secret = env.APP_SECRET;
