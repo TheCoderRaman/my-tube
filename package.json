@@ -26,6 +26,7 @@
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
+    "@testing-library/jest-dom": "^5.17.0",
     "axios": "^1.4.0",
     "he": "^1.2.0",
     "jotai": "^2.2.2",
