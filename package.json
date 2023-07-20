@@ -1,6 +1,7 @@
 {
   "name": "my-tube",
   "version": "1.0.0",
+  "private": true,
   "description": "Modern MyTube Application in React JS with Material UI 5",
   "repository": {
     "type": "git",
