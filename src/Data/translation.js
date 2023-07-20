@@ -1,6 +1,6 @@
-import i18n from "i18next";
-import { en } from "./Locales/en";
-import { hi } from "./Locales/hi";
+import i18n from 'i18next';
+import { en } from './Locales/en';
+import { hi } from './Locales/hi';
 
 /**
  * This module contain all translations
